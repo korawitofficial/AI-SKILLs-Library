@@ -26,8 +26,8 @@ Meta-skills for building and maintaining the skill library itself — used when 
 
 | Skill | Purpose | Use it when… |
 |---|---|---|
-| **[skill-suite-architect](creator-skills\claude\skill-suite-architect\SKILL.md)** | Designs and builds a *coordinated suite* of multiple skills for a complex domain that needs several specialized skills working together (e.g. a full leadership team's worth of advisory skills, or a set of department-specific skills that must not overlap). | You need more than one skill, and they must share vocabulary, avoid duplicate triggering, and hand off work to each other cleanly. |
-| **[skill-translator](creator-skills\claude\skill-translator\SKILL.md )** | Translates an existing skill (SKILL.md + any bundled files) from its original language into fluent, native-quality English — without breaking its triggering or behavior. | You've written or received a skill in another language and need an accurate, publish-ready English version. |
+| **[skill-suite-architect](creator-skills/claude/skill-suite-architect/SKILL.md)** | Designs and builds a *coordinated suite* of multiple skills for a complex domain that needs several specialized skills working together (e.g. a full leadership team's worth of advisory skills, or a set of department-specific skills that must not overlap). | You need more than one skill, and they must share vocabulary, avoid duplicate triggering, and hand off work to each other cleanly. |
+| **[skill-translator](creator-skills/claude/skill-translator/SKILL.md )** | Translates an existing skill (SKILL.md + any bundled files) from its original language into fluent, native-quality English — without breaking its triggering or behavior. | You've written or received a skill in another language and need an accurate, publish-ready English version. |
 
 **Quick reference — trigger phrases:**
 - *"I need a set of skills for our engineering, sales, and finance teams that work together"* → `skill-suite-architect`
